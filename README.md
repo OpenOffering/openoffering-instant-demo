@@ -3,7 +3,7 @@
 A single-file, no-build demo of the OpenOffering **Instant** console: an issuer
 (City of Falls Church, Virginia) draws funds against standing pre-bids in one press.
 
-**Live:** https://opencharterco.github.io/openoffering-instant-demo/
+**Live:** https://openoffering.github.io/openoffering-instant-demo/
 
 Everything is client-side and illustrative — no API, no data leaves the page.
 
